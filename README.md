@@ -8,4 +8,4 @@ Repository Local Drive
 * Local에서 Commit
 * Remort로 Push
 
-###를 연습하기 위해 만들어졌습니다.
+### 를 연습하기 위해 만들어졌습니다.
